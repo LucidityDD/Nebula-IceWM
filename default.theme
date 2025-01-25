@@ -1,0 +1,99 @@
+# Color Value
+# Base Color Dark: rgb:05/04/20
+# Base Color Light: rgb:E0/DF/FB
+# Primary Color: rgb:2E/07/40
+# Accent Color: rgb:D1/2C/72
+# Complimentary: rgb:07/40/12
+
+### META DATA ###
+ThemeAuthor="Justin Kratz"
+ThemeDescription="My first ever from-scratch theme"
+Look="flat"
+
+
+### WINDOWS ###
+# Regular windows
+BorderSizeX=4
+BorderSizeY=4
+#CornerSizeX=20
+#CornerSizeY=32
+
+
+# Scrollbar #
+ColorScrollBar = "rgb:2E/07/40"
+ColorScrollBarSlider = "rgb:00/00/00"
+ColorScrollBarButton = "rgb:C0/C0/C0"
+ColorScrollBarArrow = "rgb:C0/C0/C0"
+ColorScrollBarButtonArrow = "rgb:00/00/00"
+ColorScrollBarInactiveArrow = "rgb:80/80/80"
+
+# Dialog boxes
+DlgBorderSizeX=4
+DlgBorderSizeY=4
+ColorDialog="rgb:05/04/20"
+ColorLabel="rgb:05/04/20"
+ColorLabelText="rgb:E0/DF/FB"
+
+## Active ##
+# Titlebar #
+TitleBarHeight=32
+TitleFontNameXft="sans-serif:size=12:regular"
+TitleBarJustify=1
+ColorActiveTitleBar="rgb:2E/07/40"
+ColorActiveTitleBarText="rgb:E0/DF/FB"
+TitleButtonsSupported="xmi"
+TitleButtonsLeft="xim"
+TitleButtonsRight=""
+#ColorActiveBorder="rgb:E0/DF/FB"
+ColorActiveBorder="rgb:2E/07/40"
+
+## Inactive
+ColorNormalTitleBar="rgb:99/99/99"
+ColorNormalTitleBarText="rgb:00/00/00"
+#ColorNormalTitleButton="2E/07/40"
+#ColorNormalTitleButtonText="rgb:E0/DF/FB"
+ColorNormalBorder="rgb:99/99/99"
+
+
+### TASKBAR ###
+ColorDefaultTaskBar="rgb:05/04/20"
+
+# Application Buttons #
+ColorNormalTaskBarApp = "rgb:0B/09/4E"
+ColorNormalTaskBarAppText = "rgb:E0/DF/FB"
+NormalTaskBarAppFontNameXft="sans-serif:size=12"
+ColorActiveTaskBarApp = "rgb:D1/2C/72"
+ColorActiveTaskBarAppText = "rgb:05/04/20"
+ActiveTaskBarFontNameXft="sans-serif:size=12"
+ColorMinimizedTaskBarApp = "rgb:86/85/AD"
+ColorMinimizedTaskBarAppText = "rgb:05/04/20"
+
+## Panel Applets ##
+#ColorApm="rgb:"
+ColorApmBattary="rgb:E0/DF/FB"
+ColorApmLine="rgb:D1/2C/72"
+
+## Buttons ##
+# Active #
+ColorActiveButton="rgb:E0/DF/FB"
+ColorActiveButtonText="rgb:05/04/20"
+
+# Inactive #
+ColorNormalButton="rgb:05/04/20"
+ColorNormalButtonText="rgb:E0/DF/FB"
+
+
+### MENUS ###
+MenuFontNameXft="sans-serif:size=12"
+ColorNormalMenu = "rgb:2E/07/40"
+ColorNormalMenuItemText = "rgb:E0/DF/FB"
+ColorActiveMenuItem = "rgb:D1/2C/72"
+ColorActiveMenuItemText = "rgb:05/04/20"
+#ColorDisabledMenuItemText = "rgb:80/80/80"
+#ColorDisabledMenuItemShadow = ""
+
+
+### DESKTOP BACKGROUND ###
+DesktopBackgroundCenter=1
+DesktopBackgroundScaled=1
+DesktopBackgroundImage="./wallpaper.jpg"
